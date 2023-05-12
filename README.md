@@ -35,3 +35,5 @@ A dynamic slicer to filter Total Cases by Country.
 In conclusion, our analysis and visualization of the COVID-19 data for Nigeria and other African countries provided valuable insights into the impact of the pandemic in Africa. We hope that this project helps to increase awareness of the pandemic and provides valuable information for researchers, and the general public in Nigeria and Africa.
 
 ![image](https://github.com/OmobaCoder/Covid19_Data_Analysis/assets/107421646/520828a9-5cd6-4688-9498-53659e77a7e9)
+
+- Here is a link to my report: https://tinyurl.com/56swpzkp
