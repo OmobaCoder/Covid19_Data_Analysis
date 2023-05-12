@@ -11,18 +11,27 @@ The data used in this case study was sourced from https://ourworldindata.org/ be
 We used carried out exploratory data analysis using SQL to clean, analyze, and visualize the COVID-19 data. We uilized power bi to extract data for Nigeria and other African countries from sql database. The data cleaning process involved removing missing values, correcting inconsistencies, and aggregating the data by country and date.
 ![image](https://github.com/OmobaCoder/Covid19_Data_Analysis/assets/107421646/f744425f-db6e-44f5-affc-eb6f4d6d46c8)
 
-After cleaning the data, we performed exploratory data analysis to understand the patterns and trends in the data. We created visualizations such as line charts, bar plots, and heat maps to summarize the data and identify insights.
+After cleaning the data, we performed exploratory data analysis to understand the patterns and trends in the data. We created visualizations such as line charts, bar charts, and maps to summarize the data and identify insights.
 
 ## Results
 Our analysis revealed several insights about the COVID-19 pandemic in Nigeria and other African countries, including:
 
-The number of confirmed cases and deaths have increased significantly since the start of the pandemic.
-Nigeria has one of the highest numbers of confirmed cases and deaths in Africa, with South Africa and Tunisia also being heavily affected.
-The number of new cases and deaths have started to decrease in some countries after the implementation of strict measures such as lockdowns and mask mandates.
-We also created several interactive visualizations using Plotly and Dash to allow users to explore the data further. These visualizations include:
+- South Africa has one of the highest numbers of confirmed cases and deaths in Africa, with Morocco and Tunisia also being heavily affected.
+- Infection rate n Africa is 0.36%
+- Countries with hihest number of reported cases ( South Africa, Morocco,Tunisia, Egypt,Libya, Nigeria)
+- Countries with highest number of deaths recorded ( South Africa, Morocco,Tunisia, Egypt,Libya, Nigeria)
+- Top 2 countries with most vaccination ( Morocco and Egypt)
 
-A choropleth map showing the number of confirmed cases by country in Africa.
-A line chart showing the trend in the number of confirmed cases, deaths, and recoveries over time for Nigeria and other African countries.
+We also created several interactive visualizations using power Bi visuals to allow users to explore the data further. These visualizations include:
+
+A map visual showing the number of deaths by country in Africa.
+A line chart showing the trend in the number of confirmed cases over time for Nigeria in Africa.
 A bar chart showing the top 10 African countries with the highest number of confirmed cases.
+A dynamic slicer to filter Total Cases by Country.
+
+
+
 ## Conclusion
-In conclusion, our analysis and visualization of the COVID-19 data for Nigeria and other African countries provided valuable insights into the spread and impact of the pandemic in Africa. We hope that this project helps to increase awareness of the pandemic and provides valuable information for researchers, policymakers, and the general public in Nigeria and Africa.
+In conclusion, our analysis and visualization of the COVID-19 data for Nigeria and other African countries provided valuable insights into the impact of the pandemic in Africa. We hope that this project helps to increase awareness of the pandemic and provides valuable information for researchers, and the general public in Nigeria and Africa.
+
+![image](https://github.com/OmobaCoder/Covid19_Data_Analysis/assets/107421646/520828a9-5cd6-4688-9498-53659e77a7e9)
