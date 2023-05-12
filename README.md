@@ -14,10 +14,10 @@ We used carried out exploratory data analysis using SQL to clean, analyze, and v
 After cleaning the data, we performed exploratory data analysis to understand the patterns and trends in the data. We created visualizations such as line charts, bar charts, and maps to summarize the data and identify insights.
 
 ## Results
-Our analysis revealed several insights about the COVID-19 pandemic in Nigeria and other African countries, including:
+Here are some of the insghs derived from our analysis;
 
 - South Africa has one of the highest numbers of confirmed cases and deaths in Africa, with Morocco and Tunisia also being heavily affected.
-- Infection rate n Africa is 0.36%
+- Infection rate in Africa is 0.36%
 - Countries with hihest number of reported cases ( South Africa, Morocco,Tunisia, Egypt,Libya, Nigeria)
 - Countries with highest number of deaths recorded ( South Africa, Morocco,Tunisia, Egypt,Libya, Nigeria)
 - Top 2 countries with most vaccination ( Morocco and Egypt)
